@@ -50,7 +50,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px]
         max-w-lg leading-[30px]"
       >
-        I'm Dipak Patil from Dhule, Maharashtra, India. a skilled software
+        I'm Saalim Shaikh from Surat, Gujarat, India. a skilled software
         developer with experience in JavaScript and Java, and expertise in
         frameworks like React, Node.js, and Three.js. I'm a quick learner and
         collaborate closely with clients to create efficient, scalable, and
@@ -58,7 +58,7 @@ const About = () => {
         together to bring your ideas to life!
       </motion.p>
 
-      <div className="mt-20 flex flex-wrap gap-10">
+      <div className="mt-20 flex flex-wrap gap-10 justify-center">
         {services.map((services, index) => (
           <ServiceCard key={services.title} index={index} {...services} />
         ))}

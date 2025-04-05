@@ -29,28 +29,28 @@ const Footer = () => {
         <a href="">
           <span className="text-sky-500 flex justify-center">
             {" "}
-            Dipak U Patil
+            Saalim S Shaikh
           </span>
         </a>
       </h5>
 
       <div className="flex bg-primary h-16 justify-center items-center m-3">
         <div className="flex gap-5 h-10">
-          <a href="https://github.com/dipakpatil5050" target="_blank">
+          <a href="https://github.com/saalim2470" target="_blank">
             <img
               src="https://img.icons8.com/?size=80&id=LoL4bFzqmAa0&format=png"
               alt=""
               className="flex gap-5 h-10"
             />
           </a>
-          <a href="https://www.linkedin.com/in/dipakpatil50/" target="_blank">
+          {/* <a href="https://www.linkedin.com/in/dipakpatil50/" target="_blank">
             <img
               src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-7096209-5753431.png?f=webp"
               alt="Linkedin Profile"
               className="flex gap-5 h-10"
             />
-          </a>
-          <a href="https://twitter.com/thedipakpatil" target="_blank">
+          </a> */}
+          <a href="https://twitter.com/ShaikhSaalim24" target="_blank">
             <img
               src="https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png"
               alt="twitter x logo"
@@ -65,7 +65,7 @@ const Footer = () => {
       opacity-30
       "
       >
-        All right Reserved &copy; 2024
+        All right Reserved &copy; 2025
       </h5>
     </div>
   );
